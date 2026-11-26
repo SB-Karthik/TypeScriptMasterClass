@@ -1,0 +1,14 @@
+# Non Primitive DataTypes
+- Array
+    - HomoGenous Array : let empId = [101, 102]
+    - HeteroGenous Array ; let empData=(string |number|boolean)[]=['Jatin',101,true]
+- Objects
+- Tuple
+    - Tuple is a fixed size array(special kind of array)
+    - Array Index can be changed but Tuple Index can not be changed(use only for ReadOnly purpose)
+    - Fixed Size Array : let empInfo: [string, number, number, boolean] = ['Jatin', 101, 12000, true]
+- Function
+- Date
+- Map
+- Set
+- Regular Expression
